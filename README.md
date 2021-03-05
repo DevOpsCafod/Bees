@@ -6,5 +6,5 @@ Photos
   ..this commit [MAN-101]
   DEV 700
 MAN-800 London
-  DEV-1 https://tei213.atlassian.net/browse/DEV-1
+ 
   
